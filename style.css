@@ -76,3 +76,11 @@ form button:hover {
   text-decoration: line-through;
   opacity: 0.5;
 }
+select {
+  width: 5rem;
+  height: 2.8rem;
+  outline: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 1rem;
+}
